@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Pablo Pazini
+# Pablo Pazini
 
-### Software Engineering Student · Embedded Systems Enthusiast
+### Software Engineering Student · Focused on Embedded Systems
 
 Building my foundation in software, exploring how code interacts with hardware.
 
@@ -37,7 +37,7 @@ I enjoy learning through practical projects: writing drivers, exploring Linux, a
   <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&amp;logo=gnubash&amp;logoColor=4EAA25" alt="Bash">
 </p>
 
-**Also working with:** Git · GitHub · STM32 · ESP32 · GPIO · ADC · HAL
+**Also working with:** Git · GitHub · ESP32 · GPIO · ADC · HAL
 
 ## What I'm building
 
