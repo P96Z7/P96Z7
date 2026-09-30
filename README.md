@@ -1,6 +1,9 @@
 <div align="center">
 
 # Pablo Pazini
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=true&text=Pablo+Pazini&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
+</p>
 
 ### Software Engineering Student · Focused on Embedded Systems
 
