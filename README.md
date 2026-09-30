@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=true&text=Pablo+Pazini&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=2000&pause=1000&color=00F733&vCenter=true&width=435&lines=Python+%7C+C%2FC%2B%2B%7C+JavaScript;Embedded+Software++;Artificial+Inteligence+Researcher+;AI+Agents" alt="Typing SVG" /></a>
+</p>
+
 ### Software Engineering Student · Focused on Embedded Systems
 
 Building my foundation in software, exploring how code interacts with hardware.
