@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=2000&pause=1000&color=00F733&vCenter=true&width=435&lines=Python+%7C+C%2FC%2B%2B%7C+JavaScript;Embedded+Software++;Artificial+Inteligence+Researcher+;AI+Agents" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=2000&pause=1000&color=00F733&center=true&vCenter=true&width=435&lines=Python+%7C+C%2FC%2B%2B%7C+JavaScript;Embedded+Software++%7C+AI+Agents;Artificial+Inteligence+Researcher+" alt="Typing SVG" /></a>
 </p>
 
 ### Software Engineering Student · Focused on Embedded Systems
