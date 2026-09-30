@@ -46,14 +46,18 @@ I enjoy learning through practical projects: writing drivers, exploring Linux, a
 
 ## What I'm building
 
-### DHT22 Driver for STM32
+### DHT22 Driver for STM32 
 Sensor driver written in **C**, featuring GPIO communication, microsecond timing, checksum validation, and timeout handling. Integrated with a hardware abstraction layer for portability.
 
-### ESP32 Robotic Arm
+### [ESP32 Robotic Arm](https://github.com/P96Z7/Esp32-robotc-arm)
 Firmware written in **C++** to control four servos using potentiometers, ADC sampling, exponential filtering, and deadband logic. Built around a reusable joint-control class.
 
 ### STM32 OLED Driver · In progress
 Exploring display communication, datasheet interpretation, and hardware-software integration through driver development.
+
+### [Linux Infrastructure Provisioning](https://github.com/P96Z7/linux-infrastructure-provisioning)
+Bash script from auto create an linux server infrastructure.
+
 
 <!-- Add repository links to the project titles when the repositories are available. -->
 
