@@ -7,54 +7,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=2000&pause=1000&color=00F733&center=true&vCenter=true&width=435&lines=Python+%7C+C%2FC%2B%2B%7C+JavaScript;Embedded+Software++%7C+AI+Agents;Artificial+Inteligence+Researcher+" alt="Typing SVG" /></a>
 </p>
 
-<div class="hover-3d">
-  <!-- content -->
-  <figure class="w-60 rounded-2xl">
-    <img src="https://img.daisyui.com/images/stock/card-1.webp?x" alt="Tailwind CSS 3D card" />
-  </figure>
-  <!-- 8 empty divs needed for the 3D effect -->
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-</div>
-
-<div class="hover-3d">
-  <!-- content -->
-  <figure class="w-60 rounded-2xl">
-    <img src="https://img.daisyui.com/images/stock/card-2.webp?x" alt="Tailwind CSS 3D hover" />
-  </figure>
-  <!-- 8 empty divs needed for the 3D effect -->
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-</div>
-
-<div class="hover-3d">
-  <!-- content -->
-  <figure class="w-60 rounded-2xl">
-    <img src="https://img.daisyui.com/images/stock/card-3.webp?x" alt="Tailwind CSS 3D hover" />
-  </figure>
-  <!-- 8 empty divs needed for the 3D effect -->
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-</div>
-
 ### Software Engineering Student · Focused on Embedded Systems
 
 Building my foundation in software, exploring how code interacts with hardware.
