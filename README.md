@@ -42,9 +42,12 @@ I enjoy learning through practical projects: writing drivers, exploring Linux, a
   <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&amp;logo=gnubash&amp;logoColor=4EAA25" alt="Bash">
 </p>
 
-**Also working with:** Git · GitHub · ESP32 · GPIO · ADC · HAL
+**Also working with:** Git · GitHub · ESP32 · GPIO · ADC · HAL · Web Development
 
 ## What I'm building
+
+### [Vanila HTML,CSS and JS](https://github.com/P96Z7/JSsite)
+Web Development exploring the clean code, bases and code modularization.   
 
 ### DHT22 Driver for STM32 
 Sensor driver written in **C**, featuring GPIO communication, microsecond timing, checksum validation, and timeout handling. Integrated with a hardware abstraction layer for portability.
