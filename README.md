@@ -35,11 +35,16 @@ I enjoy learning through practical projects: writing drivers, exploring Linux, a
 ## Core skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&amp;logo=c&amp;logoColor=A8B9CC" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C" alt="C++">
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&amp;logo=gnubash&amp;logoColor=4EAA25" alt="Bash">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node js">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
+  
 </p>
 
 **Also working with:** Git · GitHub · ESP32 · GPIO · ADC · HAL · Web Development
