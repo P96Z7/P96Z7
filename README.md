@@ -57,8 +57,11 @@ Web Development exploring the clean code, bases and code modularization.
 ### DHT22 Driver for STM32 
 Sensor driver written in **C**, featuring GPIO communication, microsecond timing, checksum validation, and timeout handling. Integrated with a hardware abstraction layer for portability.
 
-### [ESP32 Robotic Arm](https://github.com/P96Z7/Esp32-robotc-arm)
+### [ESP32 Robotic Arm Potentiometers](https://github.com/P96Z7/Esp32-robotc-arm-Potentiometers)
 Firmware written in **C++** to control four servos using potentiometers, ADC sampling, exponential filtering, and deadband logic. Built around a reusable joint-control class.
+
+### [ESP32 Robotic Arm — HTTP Control & 3D Visualization](https://github.com/P96Z7/ESP32-robotic-arm-HTTP)
+A robotic arm control system integrating **ESP32 firmware, servo motors, HTTP communication, a Node.js backend, and a web interface with 3D visualization using Three.js.** Commands are sent through a REST API and retrieved by the ESP32 over Wi-Fi.
 
 ### STM32 OLED Driver · In progress
 Exploring display communication, datasheet interpretation, and hardware-software integration through driver development.
